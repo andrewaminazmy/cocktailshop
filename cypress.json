@@ -1,0 +1,36 @@
+{"pageLoadTimeout": 350000,
+  "experimentalStudio": true,
+  "watchforfilechanges": true,
+  "defaultcommandtimeout": 10000,
+  "viewportwidth":1400,
+  "viewportheight":1000,
+  "chromeWebSecurity": false,
+  "projectId": "ysk1k4",
+  
+  "testfiles": [
+"mainsite.spec.js",
+"mainsiteregister.spec.js",
+"kindaui.spec.js",
+"kindareg.spec.js",
+"securityplayer.spec.js",
+"securityplayerreg.spec.js",
+"elegantgameslogin.spec.js",
+"elegantgamesui.spec.js",
+"elegantgames.spec.js",
+"mainsiteuiandroid.spec.js",
+"patientdata.spec.js"
+],
+  "reporter": "../node_modules/mochawesome/src/mochawesome.js",
+  "reporterOptions": {
+      "overwrite": false,
+      "html": false,
+      "json": true
+  }
+  }
+
+
+  
+  
+ 
+
+
